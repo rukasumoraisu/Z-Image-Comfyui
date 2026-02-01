@@ -4,7 +4,7 @@ Do you want to generate images with better realism?
 Here is my ComfyUI workflow.
 
 ---
-![Workflow Preview](2026-02-01_19-32.png)
+![Workflow Preview](2026-02-01_19-36.png)
 ---
 
 ## ⚠️ Attention for Local ComfyUI Users
